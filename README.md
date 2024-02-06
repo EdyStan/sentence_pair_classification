@@ -2,7 +2,7 @@
 
 ## Short description
 
-The main task involves the classification of instances that have two seemingly unrelated sentences as features. The data set can be found at the following address: https://www.kaggle.com/competitions/sentence-pair-classification-pml-2023/data.
+The main task involves the supervised classification of instances that have two seemingly unrelated sentences as features. The data set can be found at the following address: https://www.kaggle.com/competitions/sentence-pair-classification-pml-2023/data.
 
 The code was written in Python and a great number of features preprocessing techniques were applied:
 
